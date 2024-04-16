@@ -1,10 +1,10 @@
 {
   "fake_update": [
     {
- "version":"8.0.0",
+ "version":"7.1.2",
  "title":"Update Tersedia",
  "description":"Fake Civil recommends that you
-update to the latest version 8.0.0 You
+update to the latest version 7.1.2 You
 can keep online the app while
 downloading the update.",
 "download":"https://drive.google.com/file/d/11azd11sXHQ5v3DCshRDgv1vx6cSUCQjp/view?usp=drivesdk"
