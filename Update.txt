@@ -1,7 +1,7 @@
 {
   "fake_update": [
     {
- "version":"7.1.2",
+ "version":"8.0.0",
  "title":"Update Tersedia",
  "description":"Fake Civil recommends that you
 update to the latest version 7.1.2 You
